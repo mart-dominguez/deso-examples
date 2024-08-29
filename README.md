@@ -24,6 +24,7 @@ mvnw exec:java -Dexec.mainClass="deso.patrones.observer.App"
 ## Using wit IDE
 It could be used with either Netbeans / Visual Studio.
 
-[[./img1.png]]
+<img src="img1.png">
 
-[[./img2.png]]
+
+<img src="img2.png">
